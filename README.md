@@ -1,4 +1,5 @@
-# Script-Steal-A-Brainrotloadstring(
+# Script-Steal-A-Brainrotloadsloadstring(
     game:HttpGet(
-        'https://api.luarmor.net/files/v3/loaders/f927290098f4333a9d217cbecbe6e988.lua)
+        'https://api.luarmor.net/files/v3/loaders/f927290098f4333a9d217cbecbe6e988.lua'
+    )
 )()
